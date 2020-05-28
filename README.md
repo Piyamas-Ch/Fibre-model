@@ -10,4 +10,4 @@ The Zemax simulation parameter can be found in 'Zemax_parameters.txt'.
    
 The COMSOL simulation parameter can be found in 'ComsolPara.txt'. 
 
-  COMSOL file can be adjustable for both step-index and graded-index tapered fibre by changing the parameters. The COMSOL file is 2DTaperFinal.mph
+  COMSOL file is adjustable for both step-index and graded-index tapered fibre by changing the parameters. The COMSOL file is 2DTaperFinal.mph
