@@ -1,4 +1,4 @@
-# Fibre-model-comsol
+
 Tapered fibre simulations by wave optic package of COMSOL version 5.5 and non-sequential mode of Zemax version 19.8.
 
    ## 1. Zemax simulations
